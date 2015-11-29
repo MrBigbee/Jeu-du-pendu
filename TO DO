@@ -1,0 +1,9 @@
+To DO :
+
+- Gérer l'affichage du mot directement sur l'écran (masquage et
+  dévoilement)
+- Gérer les erreurs si des chiffres sont saisies
+- Modulariser le code avec des fonctions
+- Inclure la gestion des exceptions
+- Inclure une GUI
+
