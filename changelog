@@ -1,0 +1,7 @@
+Version 1.1
+
+- Ajout de la gestion de l'affichage du mot directement sur l'écran (masquage et dévoilement)
+- Ajout d'un fichier fonctions.py qui contient la fonction de masquage du mot sélectionné
+- Ajout de plusieurs controles sur la saisie des lettres
+- Ajout d'un niveau de difficulté
+- Ajout d'un dessin du pendu qui s'affiche progressivement en cas d'erreur
